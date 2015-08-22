@@ -1,18 +1,26 @@
 ## Class 2 Homework 
 
 1_ Each row represents one *item* ordered as part of a greater order at Chipotle,
-2_ 1834
+
+2_ 1834 
+
 3_ 4623
+
 4_ Chicken is more popular than steak. (Chicken = 553, Steak = 368)
+
 5_ Black beans are more popular. (Black Beans = 282, Pinto Beans = 105)
+
 6_ I used: find . -name *.?sv to get:
 	*./data/airlines.csv*
 	*./data/chipotle.tsv*
 	*./data/sms.tsv*
+
 7_ The word “dictionary” was found 10 times in the DAT8 repo.
+
 8_ The most common item ordered was the Chicken Bowl. Here is a ranked list and the code that I used: 
 
 kyle-aldens-macbook-2:data kylealden$ cut -f3 chipotle.tsv | sort | uniq -c | sort -r
+
  726 Chicken Bowl
  553 Chicken Burrito
  479 Chips and Guacamole
