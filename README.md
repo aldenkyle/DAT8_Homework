@@ -1,2 +1,3 @@
 # DAT8_Homework
-Homework for DAT8 GA course
+
+DAT8_Homework includes my homework for GA's DAT8 course. 
