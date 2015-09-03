@@ -1,6 +1,6 @@
 
 
-Can I predict how many months it has taken (or will take) for any county in the US to return to within 1% of its pre-recession unemployment rate (average rate in 2007)? i.e. What types of counties are successful in America’s post recession economy?
+Can I predict how many months it has taken (or will take) for any county in the US to return to within 1% of its pre-recession unemployment rate (average rate in 2007)? i.e. What types of counties are successful in America’s post recession economy? 
 
 As of  2014 only 15% of counties in the United States had returned their pre-recession unemployment rate, while only 56% percent had returned to within 1% of pre-recession unemployment. Over 30% of counties still saw unemployment over 2% higher than the average rate for 2007. 
 
