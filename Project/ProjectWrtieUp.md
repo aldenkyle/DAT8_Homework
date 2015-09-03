@@ -15,20 +15,34 @@ As a learning experience I wanted to chose a project that incorporates spatial a
 Data slightly more in depth:
 
 Demographic: from census bureau —> % under 18, % 25-64, % over 65, ethnicity/race, 
+
 Socioeconomic: poverty rate, median income, (census) (raw, % change 2007 to 2014), maybe more?
+
 Rural v. Suburban v. Urban
+
 Education categories (census) (raw, % change 2007 to 2014)
+
 Net Migration  To/From in 10 years before, since 2009 (census)
+
 Industry (USDA Binary 2004 county typology codes farming/mining/service/government dependent)
+
 Neighborhood effects (want to take into account each county’s US neighbors) for socioeconomic and demographic characteristics
+
 Governance (republican v democratic legislature in 2008/2009?), ($$ in state stimulus?), (change in tax rates?)
 http://www.cbpp.org/research/state-tax-changes-in-response-to-the-recession
+
 Federal Stimulus Per Capita by State (http://www.recovery.gov/arra/Pages/TextView.aspx?data=recipientFundingAwardedByState) 
+
 Median Home Price 2007, 2014, change
+
 Median Household Debt (??? available)
+
 Household Savings (????)
+
 Monthly Mortgage 
+
 2007 Unemp Rate as deviation from median
+
 Highest Unemp Rate as deviation from median
 
 http://factfinder.census.gov/faces/nav/jsf/pages/index.xhtml
